@@ -1,7 +1,5 @@
 ¡Hola! Soy Martín Díaz
 
- Soy estudiante de la Tecnicatura en Análisis de Sistemas y estoy enfocado en convertirme en desarrollador backend. Me apasiona Java, Spring Boot, bases de datos y todo lo relacionado con el desarrollo de software. Actualmente estoy trabajando en mejorar mi portfolio y adquirir experiencia práctica.
-
  Actualmente estudio la Tecnicatura en Análisis de Sistemas (2º año) me apasiona Java, Spring Boot, las bases de datos y todo lo relacionado con el desarrollo backend.
 Soy autodidacta y constantemente me capacito a través de cursos, documentación oficial y proyectos propios.
 Me enfoco en tecnologías del ecosistema Java, y busco aplicar lo que aprendo en soluciones reales.
