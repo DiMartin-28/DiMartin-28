@@ -46,6 +46,7 @@ Herramientas y entornos :
 
 <p>
 Cursos destacados : 
+  <br/>
 - Programación en Java (Codo a Codo)
   <br/>
 - Programación Orientada a Objetos (TodoCode Academy)
