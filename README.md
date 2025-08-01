@@ -8,8 +8,10 @@ Me enfoco en tecnologías del ecosistema Java y busco aplicar todo lo que aprend
 En este perfil vas a encontrar proyectos que reflejan tanto mis estudios como mi dedicación personal al aprendizaje constante.
 </p>
 <br/>
-<p>
+
+  
 Proyectos destacados : 
+<p align="center">
 <br/>
 https://github.com/DiMartin-28/proy-final-tc-spring-boot
 <br/>
