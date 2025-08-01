@@ -13,7 +13,8 @@ Tecnologías que utilizo
   <img src="https://github.com/user-attachments/assets/056a1c96-e5f7-4bd2-a41b-6b64f2dae161" alt="JWT" width="60"/>
   <img src="https://github.com/user-attachments/assets/918a5a4d-eba7-4a7a-a818-b1a04a048959" alt="Git" width="60"/>
   <img src="https://github.com/user-attachments/assets/08eedbc1-553f-44d3-b854-1c448c6fdae2" alt="logo jpa nuevo 1" height="80" width="60"/>
-  <img src="https://github.com/user-attachments/assets/a6aa1d0a-95ee-46ff-a3e9-efb24e35a8b8" alt="Postman" width="60"/>
+  
+  <img src="https://github.com/user-attachments/assets/a6aa1d0a-95ee-46ff-a3e9-efb24e35a8b8" alt="Postman" height="60" width="60"/>
   <img src="https://github.com/user-attachments/assets/3c30e6c7-6a91-44e5-9ca4-eaca77dcf90d" alt="JUnit" height="60" width="60"/>
   <img src="https://github.com/user-attachments/assets/945395a3-cacf-4b2e-8c87-dddb05eece01" alt="Maven" width="60"/>
 </p>
