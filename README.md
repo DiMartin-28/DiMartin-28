@@ -47,9 +47,13 @@ Herramientas y entornos :
 <p>
 Cursos destacados : 
 - Programación en Java (Codo a Codo)
+  <br/>
 - Programación Orientada a Objetos (TodoCode Academy)
+  <br/>
 - Desarrollo de APIs con Spring Boot (TodoCode Academy)
+  <br/>
 - Microservicios con Spring Claud (TodoCode Academy)
+  <br/>
 - Spring Security y JWT (TodoCode Academy)
 <br/>
 </p>
