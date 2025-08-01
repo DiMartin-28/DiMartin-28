@@ -9,9 +9,14 @@ En este perfil vas a encontrar proyectos que reflejan tanto mis estudios como mi
 
 Proyectos destacados : 
 
+<p>
 https://github.com/DiMartin-28/proy-final-tc-spring-boot
+<br/>
 https://github.com/DiMartin-28/proyecto-final-mircro-servicios
+<br/>
 https://github.com/DiMartin-28/proyecto-final-mircro-servicios
+</p>
+
 
 
 Tecnologías que utilizo :
