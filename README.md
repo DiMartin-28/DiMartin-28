@@ -7,7 +7,14 @@ Me enfoco en tecnologías del ecosistema Java y busco aplicar todo lo que aprend
 
 En este perfil vas a encontrar proyectos que reflejan tanto mis estudios como mi dedicación personal al aprendizaje constante.
 
-Tecnologías que utilizo:
+Proyectos destacados : 
+
+https://github.com/DiMartin-28/proy-final-tc-spring-boot
+https://github.com/DiMartin-28/proyecto-final-mircro-servicios
+https://github.com/DiMartin-28/proyecto-final-mircro-servicios
+
+
+Tecnologías que utilizo :
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/57d21556-02ac-49b9-85e9-7a3b11e7ff73" alt="Java" height="60"/>
@@ -33,7 +40,7 @@ Herramientas y entornos:
 
 Contacto
 - Email: diaz.martinariel05@gmail.com
-- LinkedIn: https://www.linkedin.com/in/martin-diaz28/)
+- LinkedIn: https://www.linkedin.com/in/martin-diaz28/
 
 
 
