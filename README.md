@@ -8,7 +8,6 @@ Me enfoco en tecnologías del ecosistema Java y busco aplicar todo lo que aprend
 En este perfil vas a encontrar proyectos que reflejan tanto mis estudios como mi dedicación personal al aprendizaje constante.
 </p>
 <br/>
-<br/>
 <p>
 Proyectos destacados : 
 <br/>
