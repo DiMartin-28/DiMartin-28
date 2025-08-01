@@ -42,8 +42,9 @@ Herramientas y entornos :
 </p>
 <br/>
 
-<p>
+
 Cursos destacados : 
+<p>
 - Fundamentos de Testing de Software con JUnit5 (Udemy)
   <br/>
  - Spring Security y JWT (TodoCode Academy)
