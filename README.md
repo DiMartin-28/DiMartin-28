@@ -22,7 +22,7 @@ Tecnologías que utilizo:
 Herramientas y entornos:
 
 <p align="center">
-  <img width="150" height="60" alt="logo net beans" src="https://github.com/user-attachments/assets/88191057-d1cf-4647-83ee-1aa8854063a4" />
+  <img width="110" height="60" alt="logo net beans" src="https://github.com/user-attachments/assets/88191057-d1cf-4647-83ee-1aa8854063a4" />
 
   <img src="https://github.com/user-attachments/assets/918a5a4d-eba7-4a7a-a818-b1a04a048959" alt="Git" height="60"/>
   <img src="https://github.com/user-attachments/assets/a6aa1d0a-95ee-46ff-a3e9-efb24e35a8b8" alt="Postman" height="60"/>
