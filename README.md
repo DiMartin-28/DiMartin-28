@@ -44,7 +44,7 @@ Herramientas y entornos :
 
 
 Cursos destacados : 
-<p>
+
 - Fundamentos de Testing de Software con JUnit5 (Udemy)
   <br/>
  - Spring Security y JWT (TodoCode Academy)
@@ -57,7 +57,7 @@ Cursos destacados :
    <br/>
 - Programación en Java (Codo a Codo)
 <br/>
-</p>
+
 
 Contacto :
 - Email: diaz.martinariel05@gmail.com
@@ -65,10 +65,6 @@ Contacto :
 
 
 
-Contacto
-- Email: martin.tucorreo@gmail.com
-- LinkedIn: [TuNombre](https://www.linkedin.com/in/tuperfil)
-- GitHub: [@tuusuario](https://github.com/tuusuario)
 
 
 
