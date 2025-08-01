@@ -47,7 +47,7 @@ Cursos destacados :
 
  - Fundamentos de Testing de Software con JUnit5 (Udemy)
   <br/>
- - Spring Security y JWT (TodoCode Academy)
+- Spring Security y JWT (TodoCode Academy)
   <br/>
   - Microservicios con Spring Claud (TodoCode Academy)
   <br/>
