@@ -23,7 +23,8 @@ Herramientas y entornos:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9dbd13df-105a-492e-b28f-5388217e0750" alt="logo intellij" height="60"/>
-  
+  <img src="https://github.com/user-attachments/assets/0dba9838-d78c-4520-9c02-ca351555c02c" alt="logo eclipse" height="60"/>
+
 
   <img src="https://github.com/user-attachments/assets/29bfdff1-6339-4553-b556-35dc121310b2" alt="logo netebeans" height="60"/>
  
