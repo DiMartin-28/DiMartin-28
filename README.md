@@ -43,7 +43,7 @@ Herramientas y entornos :
   <img src="https://github.com/user-attachments/assets/a6aa1d0a-95ee-46ff-a3e9-efb24e35a8b8" alt="Postman" height="60"/>
   <img src="https://github.com/user-attachments/assets/945395a3-cacf-4b2e-8c87-dddb05eece01" alt="Maven" height="60"/>
 </p>
-
+<br/>
 <p>
 Cursos destacados : 
   <br/>
