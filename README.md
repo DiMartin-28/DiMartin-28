@@ -65,7 +65,10 @@ Contacto :
 
 
 
-
+Contacto
+- Email: martin.tucorreo@gmail.com
+- LinkedIn: [TuNombre](https://www.linkedin.com/in/tuperfil)
+- GitHub: [@tuusuario](https://github.com/tuusuario)
 
 
 
