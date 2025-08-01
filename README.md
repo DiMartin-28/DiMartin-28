@@ -10,7 +10,8 @@ Tecnologías que utilizo
 <p align="center">
   <img src="https://github.com/user-attachments/assets/57d21556-02ac-49b9-85e9-7a3b11e7ff73" alt="Java" height="60"/>
   <img src="https://github.com/user-attachments/assets/49133c27-9914-4ba6-a69b-ee7980cd75b2" alt="Spring Boot" height="60"/>
-  <img src="https://github.com/user-attachments/assets/c2d68f22-5b14-4c03-b46e-3be16e4b297b" alt="logo sql 1" height="60"/>
+  <img height="600" alt="logo sql" src="https://github.com/user-attachments/assets/556863d6-6123-4e00-8e94-6dd24bad6edd" />
+
   <img src="https://github.com/user-attachments/assets/056a1c96-e5f7-4bd2-a41b-6b64f2dae161" alt="JWT" height="60"/>
   <img src="https://github.com/user-attachments/assets/918a5a4d-eba7-4a7a-a818-b1a04a048959" alt="Git" height="60"/>
   <img src="https://github.com/user-attachments/assets/08eedbc1-553f-44d3-b854-1c448c6fdae2" alt="logo jpa nuevo 1" height="60"/>
