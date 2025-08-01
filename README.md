@@ -14,14 +14,16 @@ https://github.com/DiMartin-28/proy-final-tc-spring-boot
 <br/>
 https://github.com/DiMartin-28/proyecto-final-mircro-servicios
 <br/>
-https://github.com/DiMartin-28/proyecto-final-mircro-servicios
+https://github.com/DiMartin-28/proy-fin-springsec-jwt
 </p>
 
 
 
-Tecnologías que utilizo :
+
 
 <p align="center">
+  Tecnologías que utilizo :
+  <br/>
   <img src="https://github.com/user-attachments/assets/57d21556-02ac-49b9-85e9-7a3b11e7ff73" alt="Java" height="60"/>
   <img src="https://github.com/user-attachments/assets/49133c27-9914-4ba6-a69b-ee7980cd75b2" alt="Spring Boot" height="60"/>
   <img src ="https://github.com/user-attachments/assets/e63dada4-b6de-4f23-94ea-8f507b1438b5" alt="logo sql 1" height="60"/>
@@ -42,6 +44,10 @@ Herramientas y entornos:
   <img src="https://github.com/user-attachments/assets/a6aa1d0a-95ee-46ff-a3e9-efb24e35a8b8" alt="Postman" height="60"/>
   <img src="https://github.com/user-attachments/assets/945395a3-cacf-4b2e-8c87-dddb05eece01" alt="Maven" height="60"/>
 </p>
+
+Cursos destacados : 
+
+
 
 Contacto
 - Email: diaz.martinariel05@gmail.com
