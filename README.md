@@ -1,4 +1,4 @@
-
+<p>
 ¡Hola! Soy Martín Díaz
 
 Actualmente curso el segundo año de la Tecnicatura en Análisis de Sistemas. Me apasiona la programación en Java, el desarrollo con Spring Boot y el trabajo con bases de datos, en especial en el entorno backend.
@@ -6,20 +6,18 @@ Soy autodidacta y me capacito constantemente a través de cursos, documentación
 Me enfoco en tecnologías del ecosistema Java y busco aplicar todo lo que aprendo en soluciones prácticas y reales.
 
 En este perfil vas a encontrar proyectos que reflejan tanto mis estudios como mi dedicación personal al aprendizaje constante.
-
-Proyectos destacados : 
-
+</p>
+<br/>
+<br/>
 <p>
+Proyectos destacados : 
+<br/>
 https://github.com/DiMartin-28/proy-final-tc-spring-boot
 <br/>
 https://github.com/DiMartin-28/proyecto-final-mircro-servicios
 <br/>
 https://github.com/DiMartin-28/proy-fin-springsec-jwt
 </p>
-
-
-
-
 
 <p align="center">
   Tecnologías que utilizo :
@@ -34,9 +32,11 @@ https://github.com/DiMartin-28/proy-fin-springsec-jwt
 </p>
 
 
-Herramientas y entornos:
+
 
 <p align="center">
+  Herramientas y entornos:
+   <br/>
   <img src="https://github.com/user-attachments/assets/9dbd13df-105a-492e-b28f-5388217e0750" alt="logo intellij" height="60"/>
   <img src="https://github.com/user-attachments/assets/0dba9838-d78c-4520-9c02-ca351555c02c" alt="logo eclipse" height="60"/>
   <img src="https://github.com/user-attachments/assets/29bfdff1-6339-4553-b556-35dc121310b2" alt="logo netebeans" height="60"/>
@@ -45,9 +45,10 @@ Herramientas y entornos:
   <img src="https://github.com/user-attachments/assets/945395a3-cacf-4b2e-8c87-dddb05eece01" alt="Maven" height="60"/>
 </p>
 
+<p>
 Cursos destacados : 
-
-
+<br/>
+</p>
 
 Contacto
 - Email: diaz.martinariel05@gmail.com
