@@ -45,12 +45,9 @@ Herramientas y entornos :
 
 Cursos destacados : 
 
- - Fundamentos de Testing de Software con JUnit5 (Udemy)
-  <br/>
+- Fundamentos de Testing de Software con JUnit5 (Udemy)
 - Spring Security y JWT (TodoCode Academy)
-  <br/>
-  - Microservicios con Spring Claud (TodoCode Academy)
-  <br/>
+- Microservicios con Spring Claud (TodoCode Academy)
   - Desarrollo de APIs con Spring Boot (TodoCode Academy)
    <br/>
   - Programación Orientada a Objetos (TodoCode Academy)
