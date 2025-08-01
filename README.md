@@ -47,15 +47,17 @@ Herramientas y entornos :
 <p>
 Cursos destacados : 
   <br/>
-- Programación en Java (Codo a Codo)
+- Fundamentos de Testing de Software con JUnit5 (Udemy)
   <br/>
-- Programación Orientada a Objetos (TodoCode Academy)
-  <br/>
-- Desarrollo de APIs con Spring Boot (TodoCode Academy)
+ - Spring Security y JWT (TodoCode Academy)
   <br/>
 - Microservicios con Spring Claud (TodoCode Academy)
   <br/>
-- Spring Security y JWT (TodoCode Academy)
+- Desarrollo de APIs con Spring Boot (TodoCode Academy)
+   <br/>
+- Programación Orientada a Objetos (TodoCode Academy)
+   <br/>
+- Programación en Java (Codo a Codo)
 <br/>
 </p>
 
