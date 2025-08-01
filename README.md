@@ -49,13 +49,13 @@ Cursos destacados :
   <br/>
  - Spring Security y JWT (TodoCode Academy)
   <br/>
-- Microservicios con Spring Claud (TodoCode Academy)
+ - Microservicios con Spring Claud (TodoCode Academy)
   <br/>
-- Desarrollo de APIs con Spring Boot (TodoCode Academy)
+ - Desarrollo de APIs con Spring Boot (TodoCode Academy)
    <br/>
-- Programación Orientada a Objetos (TodoCode Academy)
+ - Programación Orientada a Objetos (TodoCode Academy)
    <br/>
-- Programación en Java (Codo a Codo)
+ - Programación en Java (Codo a Codo)
 <br/>
 
 
