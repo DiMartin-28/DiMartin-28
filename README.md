@@ -9,7 +9,7 @@ En este perfil vas a encontrar proyectos que reflejan tanto mis estudios como mi
 </p>
 <br/>
 
-  
+
 Proyectos destacados : 
 <p align="center">
 <br/>
@@ -33,7 +33,7 @@ Tecnologías que utilizo :
 </p>
 
 
-Herramientas y entornos:
+Herramientas y entornos :
 <p align="center">
   <br/>
   <img src="https://github.com/user-attachments/assets/9dbd13df-105a-492e-b28f-5388217e0750" alt="logo intellij" height="60"/>
@@ -46,10 +46,15 @@ Herramientas y entornos:
 
 <p>
 Cursos destacados : 
+- Programación en Java (Codo a Codo)
+- Programación Orientada a Objetos (TodoCode Academy)
+- Desarrollo de APIs con Spring Boot (TodoCode Academy)
+- Microservicios con Spring Claud (TodoCode Academy)
+- Spring Security y JWT (TodoCode Academy)
 <br/>
 </p>
 
-Contacto
+Contacto :
 - Email: diaz.martinariel05@gmail.com
 - LinkedIn: https://www.linkedin.com/in/martin-diaz28/
 
