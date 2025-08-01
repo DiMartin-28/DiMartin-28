@@ -22,8 +22,8 @@ Tecnologías que utilizo:
 Herramientas y entornos:
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/29bfdff1-6339-4553-b556-35dc121310b2" alt="logo netebeans" height="60"/>
  
-  ![netbeans](https://github.com/user-attachments/assets/29bfdff1-6339-4553-b556-35dc121310b2)
 
   <img src="https://github.com/user-attachments/assets/918a5a4d-eba7-4a7a-a818-b1a04a048959" alt="Git" height="60"/>
   <img src="https://github.com/user-attachments/assets/a6aa1d0a-95ee-46ff-a3e9-efb24e35a8b8" alt="Postman" height="60"/>
