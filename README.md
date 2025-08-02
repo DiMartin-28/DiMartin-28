@@ -1,13 +1,11 @@
-<p>
-¡Hola! Soy Martín Díaz
 
-Actualmente curso el segundo año de la Tecnicatura en Análisis de Sistemas. Me apasiona la programación en Java, el desarrollo con Spring Boot y el trabajo con bases de datos, en especial en el entorno backend.
-Soy autodidacta y me capacito constantemente a través de cursos, documentación oficial y proyectos personales.
-Me enfoco en tecnologías del ecosistema Java y busco aplicar todo lo que aprendo en soluciones prácticas y reales.
+Sobre mí 
 
-En este perfil vas a encontrar proyectos que reflejan tanto mis estudios como mi dedicación personal al aprendizaje constante.
-</p>
-<br/>
+Actualmente curso el segundo año de la Tecnicatura en Análisis de Sistemas.
+-  Me especializo en desarrollo backend con Java y Spring Boot.
+-  Me capacito de forma constante con cursos, documentación oficial y proyectos personales.
+-  Busco aplicar mis conocimientos en proyectos reales, escalables y bien estructurados.
+-  Abierto a oportunidades laborales en IT donde pueda aprender, crecer y aportar valor.
 
 
 Proyectos destacados : 
@@ -18,6 +16,10 @@ https://github.com/DiMartin-28/proyecto-final-mircro-servicios
 <br/>
 https://github.com/DiMartin-28/proy-fin-springsec-jwt
 </p>
+
+- 🔗 [API REST con Spring Boot (TodoCode Final)](https://github.com/DiMartin-28/proy-final-tc-spring-boot)
+- 🔗 [Microservicios con Spring Cloud](https://github.com/DiMartin-28/proyecto-final-mircro-servicios)
+- 🔗 [Spring Security + JWT Roles y Permisos](https://github.com/DiMartin-28/proy-fin-springsec-jwt)
 
 Tecnologías que utilizo :
 <p align="center">
