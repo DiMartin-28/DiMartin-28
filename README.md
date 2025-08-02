@@ -2,24 +2,18 @@
 Sobre mí 
 
 Actualmente curso el segundo año de la Tecnicatura en Análisis de Sistemas.
--  Me especializo en desarrollo backend con Java y Spring Boot.
--  Me capacito de forma constante con cursos, documentación oficial y proyectos personales.
--  Busco aplicar mis conocimientos en proyectos reales, escalables y bien estructurados.
--  Abierto a oportunidades laborales en IT donde pueda aprender, crecer y aportar valor.
+Me especializo en desarrollo backend con Java y Spring Boot.
+Me capacito de forma constante con cursos, documentación oficial y proyectos personales.
+Busco aplicar mis conocimientos en proyectos reales, escalables y bien estructurados.
+Abierto a oportunidades laborales en IT donde pueda aprender, crecer y aportar valor.
 
 
 Proyectos destacados : 
-<p align="center">
-https://github.com/DiMartin-28/proy-final-tc-spring-boot
-<br/>
-https://github.com/DiMartin-28/proyecto-final-mircro-servicios
-<br/>
-https://github.com/DiMartin-28/proy-fin-springsec-jwt
-</p>
 
 - 🔗 [API REST con Spring Boot (TodoCode Final)](https://github.com/DiMartin-28/proy-final-tc-spring-boot)
 - 🔗 [Microservicios con Spring Cloud](https://github.com/DiMartin-28/proyecto-final-mircro-servicios)
 - 🔗 [Spring Security + JWT Roles y Permisos](https://github.com/DiMartin-28/proy-fin-springsec-jwt)
+  
 
 Tecnologías que utilizo :
 <p align="center">
