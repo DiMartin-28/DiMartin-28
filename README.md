@@ -10,7 +10,7 @@ Abierto a oportunidades laborales en IT donde pueda aprender, crecer y aportar v
 
 Proyectos destacados : 
 
-- 🔗 [API REST con Spring Boot (TodoCode Final)](https://github.com/DiMartin-28/proy-final-tc-spring-boot)
+- 🔗 [API REST con Spring Boot (TodoCode Final)](https://github.com/DiMartin-28/api-rest-tienda-electronica-springboot)
 - 🔗 [Microservicios con Spring Cloud](https://github.com/DiMartin-28/proyecto-final-mircro-servicios)
 - 🔗 [Spring Security + JWT Roles y Permisos](https://github.com/DiMartin-28/proy-fin-springsec-jwt)
   
